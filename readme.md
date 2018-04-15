@@ -8,26 +8,18 @@ It's a python bot that streams Twitter, geolocates users and saves the details t
 
 ![screenshot](https://i.imgur.com/wSAgtvH.png)
 
----
-
 ### Install dependencies
 
     MongoDB - https://docs.mongodb.com/manual/installation/
     pip3 install -r requirements.txt
 
----
-
 ### Fill in the blanks     
 
 Enter all your juicy details and set variables at the top of run.py
 
----
-
 ### RELEASE THE KITTIES!
 
     python3 run.py
-
----
 
 ### License Stuff
 
