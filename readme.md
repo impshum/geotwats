@@ -10,7 +10,9 @@ It's a python bot that streams Twitter, geolocates users and saves the details t
 
 ### Install dependencies
 
-    MongoDB - https://docs.mongodb.com/manual/installation/
+    Python3 https://python.org
+    This https://github.com/impshum/geotwats/releases/latest
+    MongoDB https://docs.mongodb.com/manual/installation/
     pip3 install -r requirements.txt
 
 ### Fill in the blanks     
